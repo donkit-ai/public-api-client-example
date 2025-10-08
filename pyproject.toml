@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "donkit-public-api-client-example"
+version = "0.1.0"
+description = "CLI-client example for Donkit API"
+authors = ["Pavel Pristupa <pristupa@donkit.ai>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.13"
+rich = "^14.1.0"
+aiohttp-sse-client2 = "^0.3.0"
+
