@@ -9,7 +9,7 @@ It allows you to send questions and receive streaming responses from the assista
 
 ### 1. Navigate to the project folder
 ```bash
-cd donkit_client
+cd public-api-client-example
 ```
 
 ### 2. Install dependencies
