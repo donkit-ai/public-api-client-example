@@ -17,7 +17,7 @@ cd public-api-client-example
 poetry install
 ```
 
-3. Run the CLI
+### 3. Run the CLI
 ```bash
 poetry run python cli.py
 ```
