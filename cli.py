@@ -51,7 +51,7 @@ async def ask_question(prompt: str, api_key: str):
 
 async def main():
     console.print("[bold cyan]Donkit Chat CLI (async)[/bold cyan]")
-    api_key = getpass.getpass("Enter API key: ")
+    api_key = getpass.getpass("Enter API Token: ")
 
     while True:
         try:
